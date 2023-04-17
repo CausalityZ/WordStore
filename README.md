@@ -17,6 +17,4 @@
 
 ```npm start ```
 
-
-
-*（本项目基于https://github.com/electron/electron-quick-start 模板开发。）*
+:coffee: *要是喜欢这个项目，或者喜欢我这个人，可以来支持一下我：https://www.patreon.com/CausalityZ*
